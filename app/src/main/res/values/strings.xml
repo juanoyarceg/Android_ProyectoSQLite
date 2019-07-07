@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProyectoSQLite</string>
+    <string name="ingresar_rut">Ej. 12345678-9</string>
+</resources>
